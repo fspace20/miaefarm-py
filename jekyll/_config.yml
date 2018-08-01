@@ -1,28 +1,28 @@
-title: John Smith
-description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+title: Blog
+description: Git Blog
+author: F:SPACE
+logo: /static/img/logo.png
+github: https://github.com/fspace20
+about: Favorite Figures
 
 baseurl: ""
 url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+disqus_shortname: fspace20
+google_analytics: UA-121537733-1
 
 share:
-  twitter_username: \#
+  twitter_username: f_space20
   fb_appid: 000000000000
 
 
 enableTags: true
 tagarray: []
 
-paginate: 20
-per_page: 20
+paginate: 10
+per_page: 10
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
