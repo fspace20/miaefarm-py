@@ -1,0 +1,23 @@
+[
+	{
+		"name": "FM Schedule Bot",
+		"image": "fm-sched-bot.png",
+		"url": "https://github.com/fspace20/fm-kang-api",
+		"date": "Mar 2018",
+		"tags": ["Python","nodejs", "serverless"]
+	},
+	{
+		"name": "TMJ Schedule Parser",
+		"image": "tmj-sched-parser.png",
+		"url": "https://github.com/fspace20/miaefarm-py",
+		"date": "Jun 2018",
+		"tags": ["Python"]
+	},
+	{
+		"name": "Miaeportal Mobile",
+		"image": "placeholder.jpg",
+		"url": "https://github.com/fspace20/miaefarm-cross",
+		"date": "Jul 2018",
+		"tags": ["nodejs","NativeScript","Vue"]
+	}
+]
